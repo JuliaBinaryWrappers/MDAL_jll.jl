@@ -1,236 +1,288 @@
 [[MDAL]]
 arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "b655211afbf6a31f83a9a1bba0fb8bbf56120096"
-libc = "glibc"
-os = "linux"
-
-    [[MDAL.download]]
-    sha256 = "167ae1680e4694e2ad1827533f54931063e8717125192f7745dda0e131395709"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.aarch64-linux-gnu-cxx03.tar.gz"
-[[MDAL]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "feca6c984ba6903a74a35fa64a245d9e9f0fd8b6"
-libc = "glibc"
-os = "linux"
-
-    [[MDAL.download]]
-    sha256 = "a9ed6008fbec2b7650295e82ae0459d93c6cd13224cf055f9280f051b436bd72"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.aarch64-linux-gnu-cxx11.tar.gz"
-[[MDAL]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "5dc5881e735a53349eee1f5a7fbc48d1303b5e19"
-libc = "musl"
-os = "linux"
-
-    [[MDAL.download]]
-    sha256 = "c48426aadb9e173016ce49246832cf6a83d9850adacb942fc9014ea27aaec665"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.aarch64-linux-musl-cxx03.tar.gz"
-[[MDAL]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "a1ae5a1ad814047679904b7a630dfe6905af8f4a"
-libc = "musl"
-os = "linux"
-
-    [[MDAL.download]]
-    sha256 = "f96671157e305e90784901167c77d567f47a202df3d2f433bcca686276a2cc28"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.aarch64-linux-musl-cxx11.tar.gz"
-[[MDAL]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "3b1abf6f0f1523b6d9b2708c6e293b63ea3d62b2"
-libc = "glibc"
-os = "linux"
-
-    [[MDAL.download]]
-    sha256 = "338c01ed9e4ed20b1165c6a2ea5b0bbbe9812a074c2bf3cbce13f7f84d245d8f"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
-[[MDAL]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "6577aed0f8b5faef845621be3e6fa4043b9cd0da"
-libc = "glibc"
-os = "linux"
-
-    [[MDAL.download]]
-    sha256 = "89e3380e637ba380328421f00fbd091882f951015e41e7121bcaec304a8f310c"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
-[[MDAL]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "aa0669f8ca792285574a4b64abf037b017ab53cf"
-libc = "musl"
-os = "linux"
-
-    [[MDAL.download]]
-    sha256 = "f7a4bb7cad423b4976451e4edd4b8b5d650d225543ef69f0d4a48a7e08038122"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.armv7l-linux-musleabihf-cxx03.tar.gz"
-[[MDAL]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "08f0dc7df417262925bd3c57b7dfc19ee94603d7"
-libc = "musl"
-os = "linux"
-
-    [[MDAL.download]]
-    sha256 = "37e0e6c49d9fc001de6e80ce63401877c9d9b23d66613ef5043caa4a0bed14fa"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.armv7l-linux-musleabihf-cxx11.tar.gz"
-[[MDAL]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "6bbe6effddf0854477fb2ea7c2d43651d6b4c561"
-libc = "glibc"
-os = "linux"
-
-    [[MDAL.download]]
-    sha256 = "2eb929e54e4fce97eac768f1aa902f6dd2140c657df18a9db6d9a8f9972200b7"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.i686-linux-gnu-cxx03.tar.gz"
-[[MDAL]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c295c3f2e986a57bc9251a62c90fd53010bc7f64"
-libc = "glibc"
-os = "linux"
-
-    [[MDAL.download]]
-    sha256 = "3db437b1a552694500d7f07810f9d0530984026d03b1a086a78a05ebcd4db899"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.i686-linux-gnu-cxx11.tar.gz"
-[[MDAL]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "efda5604e3c0c2a1688b7530e397c386c446fcb7"
-libc = "musl"
-os = "linux"
-
-    [[MDAL.download]]
-    sha256 = "c8e90c8e0627beaf0963a42c8c15baab0828819441c0d2dbb53be823605f21b0"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.i686-linux-musl-cxx03.tar.gz"
-[[MDAL]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "b89b91e249fe41da19cbc3e4d3f03c5658e01558"
-libc = "musl"
-os = "linux"
-
-    [[MDAL.download]]
-    sha256 = "b5832d78d8931bd6505010fc679895f1d917d57d15d63d2d96c615bf9b9f44d2"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.i686-linux-musl-cxx11.tar.gz"
-[[MDAL]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "5215fb16e6e990208da1756541a102e403c89b57"
-os = "windows"
-
-    [[MDAL.download]]
-    sha256 = "8ec64f3a48857b0b8a152ec283ac265416ec1d47206235008a919524aec90b8d"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.i686-w64-mingw32-cxx03.tar.gz"
-[[MDAL]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d5a929feca1dbe1a968222498cfb95c6a0c349fc"
-os = "windows"
-
-    [[MDAL.download]]
-    sha256 = "ca4fcfcefe0f149d8a3582dcc1c7a52679c65c7a01386f05f2a5a10bfb2154c8"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.i686-w64-mingw32-cxx11.tar.gz"
-[[MDAL]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "2573443d89a901a21be528efe3f53261cbe07804"
-libc = "glibc"
-os = "linux"
-
-    [[MDAL.download]]
-    sha256 = "ba65189deb41d26592d07382ec8418bffdd94c72980717c039b067e2e4a4f662"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.powerpc64le-linux-gnu-cxx03.tar.gz"
-[[MDAL]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "19b25aedc9f2c02690af611a76985cf26c2073f7"
-libc = "glibc"
-os = "linux"
-
-    [[MDAL.download]]
-    sha256 = "d69a7a9c4ea6a100988fddbd85e26333e3286df74dac7c32ac26bc720f63e271"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.powerpc64le-linux-gnu-cxx11.tar.gz"
-[[MDAL]]
-arch = "x86_64"
-git-tree-sha1 = "0ffbcc2294a71c74db9446981af876d82b514bb5"
+git-tree-sha1 = "5114bb8b00c2c9ef053b548c4ce51be585450b2c"
 os = "macos"
 
     [[MDAL.download]]
-    sha256 = "b887a4cad8cbc58f472684853db54430d5861e38db1265cbbb671487447e30e4"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "8efd6770e6dee69883c0919981f7528d32e2bb5578d81d1d0d78506f2a0180c0"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.aarch64-apple-darwin.tar.gz"
 [[MDAL]]
-arch = "x86_64"
+arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8f9d95c477365e16fc129aa573374d58ac706fe4"
+git-tree-sha1 = "553d30c68e75956f419d010ea484c168534ca3fd"
 libc = "glibc"
 os = "linux"
 
     [[MDAL.download]]
-    sha256 = "b5e4c32daf0b9d05f68b2601d9556a6bc6f15175203b92e8936772bb6dfc8a34"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "d1e5d429a230e77fdf33f4dd3b2431c92e14144821b08a5e5277a560d07935c4"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.aarch64-linux-gnu-cxx03.tar.gz"
 [[MDAL]]
-arch = "x86_64"
+arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3a2128c65affffc43e33b41642c23a7a9eeba431"
+git-tree-sha1 = "1be56921323f0bc1bdc33a2f12a7b90c99b98c22"
 libc = "glibc"
 os = "linux"
 
     [[MDAL.download]]
-    sha256 = "261b6884602d3fad72ec3bb6160ee5984966a587c8502b63bec1cf6bec5eafc4"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "437732c6581e468c3297fc7fe49487f4949e0b7086a650067d62493437ee4bda"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.aarch64-linux-gnu-cxx11.tar.gz"
+[[MDAL]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "119a23373ceb9f464840e6a8e347556c81c26f24"
+libc = "musl"
+os = "linux"
+
+    [[MDAL.download]]
+    sha256 = "6e4f4026cdfc76042019df62d078b908adbd89bc4330927956022a7b23e102d0"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.aarch64-linux-musl-cxx03.tar.gz"
+[[MDAL]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ed838bdee33eba26d731c54f21537cc67cdbc37f"
+libc = "musl"
+os = "linux"
+
+    [[MDAL.download]]
+    sha256 = "7f55ff2ae59e6ccfa758437213d9fe7e990849e367263bcec0aa28bb882454e1"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.aarch64-linux-musl-cxx11.tar.gz"
+[[MDAL]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "728e00b3a2d70f26df27674670d4ef5254ab2249"
+libc = "glibc"
+os = "linux"
+
+    [[MDAL.download]]
+    sha256 = "d7e764339c4b0668d477d782843bbe6505ff7ea95b1870fa9c149e5f38ff73a4"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[MDAL]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "21efa4e3fc4d318871caee937778e05310957dd7"
+libc = "glibc"
+os = "linux"
+
+    [[MDAL.download]]
+    sha256 = "58c7bca45d5b844f2a3a948b4c33cc7e33cb3af9426de7ebfb423ffc0b7f98db"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[MDAL]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "895b33239255c93ce9875f386d76bd32bbda7f3f"
+libc = "musl"
+os = "linux"
+
+    [[MDAL.download]]
+    sha256 = "048f2b9cfa13070135cd93a848d3090f3881bfec08e2190a9f72a219c8f671b5"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[MDAL]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "24d49f1eb26c618b3d0bd1ebbf59c0762018cfd5"
+libc = "musl"
+os = "linux"
+
+    [[MDAL.download]]
+    sha256 = "b6518f096734a4ac75d70327f87cf605b90530533e6b044be1da9a735c7b0ced"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[MDAL]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "db34ed4a1cf50f68259906ed0bc5d3fb8e0417ad"
+libc = "glibc"
+os = "linux"
+
+    [[MDAL.download]]
+    sha256 = "ffa6485f2af131a0a6a39cd24c80ca7faf09cd8f6031151c2402aa6f95894697"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[MDAL]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4e411df2ed62cca9214b4f6f54d5e8ddc1d01bfd"
+libc = "glibc"
+os = "linux"
+
+    [[MDAL.download]]
+    sha256 = "b962fedf333a96011b51ff91638387f7e68997b3fe0af9defdf2fe3dc7ef2c21"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[MDAL]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "48210bbb16d7a06dd37134c66cce9e4c1a76724c"
+libc = "musl"
+os = "linux"
+
+    [[MDAL.download]]
+    sha256 = "7792cebcc0942f02ee6f5c93859715cbcfb35523df3caaf56fb4cfcea1500437"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[MDAL]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "94ada0b17b1bf7c378ed73d44a4cdf34d967263b"
+libc = "musl"
+os = "linux"
+
+    [[MDAL.download]]
+    sha256 = "408e5197d066fa86c98edff77bc6fa8ad9ad620455476e92f0436eafc8eff13e"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[MDAL]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b1dd7973a64a05020b5eceabe74206d46acb3ce8"
+libc = "glibc"
+os = "linux"
+
+    [[MDAL.download]]
+    sha256 = "dcd7c79acf0567b644483cffe60a3ededb359f2f565bbb310ff7a37559c3ec60"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.i686-linux-gnu-cxx03.tar.gz"
+[[MDAL]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4b6c6b2b3fb00c5aac9b965dcd2c0d3a8eeb6154"
+libc = "glibc"
+os = "linux"
+
+    [[MDAL.download]]
+    sha256 = "55709ebaa5d290b7b3f620c80b12ffd81090c9fe6b0afd0fedb014c93b87fe7e"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.i686-linux-gnu-cxx11.tar.gz"
+[[MDAL]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "180f2a39f4a31c6e2253092da9b6df70c05103d4"
+libc = "musl"
+os = "linux"
+
+    [[MDAL.download]]
+    sha256 = "fa8aa1fbcee6f61d68059be3f7cf4a511b26aa4a2bf345362fa9f176a5076203"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.i686-linux-musl-cxx03.tar.gz"
+[[MDAL]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b694830cbac0cf7416afa5b90dbd0fbb8588d52e"
+libc = "musl"
+os = "linux"
+
+    [[MDAL.download]]
+    sha256 = "9540745a994701fa1ceb786a2d4285675052f7dbcc7fe3d999854654b1238dba"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.i686-linux-musl-cxx11.tar.gz"
+[[MDAL]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f446aa3901705598602778a3c0b2b2f8e3c0cd6e"
+os = "windows"
+
+    [[MDAL.download]]
+    sha256 = "021c7689b0aa62db9aca4637e435e451920f7760437702c386181266bda6abb1"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.i686-w64-mingw32-cxx03.tar.gz"
+[[MDAL]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d8ed75740187c0b06e63a02bfc07f342f3adc02b"
+os = "windows"
+
+    [[MDAL.download]]
+    sha256 = "eb2d5856636d2aeb6ec6827542a4753f7c87b3c724553f1add7a54d1734d4593"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.i686-w64-mingw32-cxx11.tar.gz"
+[[MDAL]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "15c0ab0e23883b6021dea73ec3d2735d06aff3e5"
+libc = "glibc"
+os = "linux"
+
+    [[MDAL.download]]
+    sha256 = "e78ae64bf64415a2d7063c8c243c343657a3b5da8aaa6840fc9ef1eae08d6a5c"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[MDAL]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0272a416fbf5a501c47abac5cdb936866b9a419f"
+libc = "glibc"
+os = "linux"
+
+    [[MDAL.download]]
+    sha256 = "78d58a0d383628ac3bd9a41bdff7d1f3ab9d223c2ed937404c831bf4b72664ec"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[MDAL]]
+arch = "x86_64"
+git-tree-sha1 = "900a989d9ba5c6787e5dbb941768d9807876cea8"
+os = "macos"
+
+    [[MDAL.download]]
+    sha256 = "941eaf0aff12fb7a9b4b6a74235c66ff31a72748abfc0b447f7b270de03cff9b"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.x86_64-apple-darwin.tar.gz"
 [[MDAL]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ee0d868de9154525bac07350ca776b21d45effd7"
-libc = "musl"
+git-tree-sha1 = "21b5003835675a5d044021151d514e53efe96d60"
+libc = "glibc"
 os = "linux"
 
     [[MDAL.download]]
-    sha256 = "06fe7609d46dc8088a94b3ed2a93481310b2ef61012c9578ae5685b0498516cc"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "da0970811a923e816390671e09e3fce49e963b1b0518067681b7b54f0a7f4208"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.x86_64-linux-gnu-cxx03.tar.gz"
 [[MDAL]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9cbc65519584424cfcf00db0ae4c395ee089f8e3"
+git-tree-sha1 = "786867692355478b4bc03fdb12fb380ea91f96b4"
+libc = "glibc"
+os = "linux"
+
+    [[MDAL.download]]
+    sha256 = "48d029afda15b303dbe07b39bc3f3827dfee6fc4b7d8316c8228b1b411c9c4b0"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.x86_64-linux-gnu-cxx11.tar.gz"
+[[MDAL]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "94c511e73b20f28de18afb4d3c10f4c4c468524b"
 libc = "musl"
 os = "linux"
 
     [[MDAL.download]]
-    sha256 = "bb6d610ea0a479490fca17145da7e2608ec2c24dd3a7c94e6724f1332a6e9be9"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "ebe063082c35eeea30acd267ea1388aecda0107dd0c9afa8c9c1afedd4b03aea"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.x86_64-linux-musl-cxx03.tar.gz"
 [[MDAL]]
 arch = "x86_64"
-git-tree-sha1 = "b818e1753b5db3dd63c47783b25933fd5e2b46fa"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8a9e50ed3432874b5226f756781bd35ff9c0334b"
+libc = "musl"
+os = "linux"
+
+    [[MDAL.download]]
+    sha256 = "5f3fc5e2c87b01fd0ad76044b225fac1335b583f5bc32c234c3a490c3cdd667d"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.x86_64-linux-musl-cxx11.tar.gz"
+[[MDAL]]
+arch = "x86_64"
+git-tree-sha1 = "9e700cac7398d196173579dd30031a87ff6bd451"
 os = "freebsd"
 
     [[MDAL.download]]
-    sha256 = "d906df8054d55e8bd87e95eb1962efda981b26f6715b593d272dacdb4b5321b5"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "8f7c81c2ed4d73ab38285fe6beb56ca0f4671406c17076d5453b3ce77fc32257"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.x86_64-unknown-freebsd.tar.gz"
 [[MDAL]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ce886285a9e52b45a96c693253fd9849da3bbbb3"
+git-tree-sha1 = "a3789b6f227be5e4a41cd4f82b04c0af445727bb"
 os = "windows"
 
     [[MDAL.download]]
-    sha256 = "f2989b81fc6d572d967d5a0f26008dc7ca50a363d960303b05e6954f7dcf5684"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "339fec55237f81346092d264a79e371be2d70b99dff2170dc2efe5831a69edb5"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.x86_64-w64-mingw32-cxx03.tar.gz"
 [[MDAL]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "750f5816e8bb9079442eeee3e2bd5bc5a24b887b"
+git-tree-sha1 = "9be191549d601eebd24702a9482eb77e6d888215"
 os = "windows"
 
     [[MDAL.download]]
-    sha256 = "e193355c62466689f00bf9d7b88ccd741dfa778ca7e7885aeb397f3823bf0d4c"
-    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.8.1+0/MDAL.v0.8.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "31b99bca4833dd218bc5d82166fbfce6f0d99985531d5d176d1578bcaa12282b"
+    url = "https://github.com/JuliaBinaryWrappers/MDAL_jll.jl/releases/download/MDAL-v0.9.4+0/MDAL.v0.9.4.x86_64-w64-mingw32-cxx11.tar.gz"
